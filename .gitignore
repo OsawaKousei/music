@@ -18,3 +18,9 @@ wheels/
 # data
 data/
 parsed_data/
+
+# result
+checkpoint/
+logs/
+output/
+models/
