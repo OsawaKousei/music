@@ -14,3 +14,6 @@ wheels/
 
 # settings
 .vscode/
+
+# data
+data/
